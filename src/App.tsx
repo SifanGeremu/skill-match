@@ -9,7 +9,7 @@ import { AnimatePresence, motion } from "framer-motion";
 
 const INITIAL_USER: Student = {
   id: "current-user",
-  name: "Alex Thompson",
+  name: "Abbee Kebbee,
   bio: "Full-stack developer student interested in AI and sustainability. Looking for a designer to partner with.",
   avatar: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/5a79ee3f-624c-4d7a-a272-c967352d32d8/student5-b8338c94-1773838204410.webp",
   skills: ["React", "TypeScript", "UI/UX"],
