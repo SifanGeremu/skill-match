@@ -3,7 +3,7 @@ import { Student } from "../types";
 export const mockStudents: Student[] = [
   {
     id: "1",
-    name: "Alex Thompson",
+    name: "Abbee Kebbee",
     bio: "Passionate about full-stack development and UI/UX design. Looking for a team to build a sustainable tech project.",
     avatar: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/5a79ee3f-624c-4d7a-a272-c967352d32d8/student1-1ba01ee1-1773838203188.webp",
     skills: ["React", "TypeScript", "Node.js", "Figma"],
