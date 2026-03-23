@@ -100,7 +100,7 @@ function App() {
             <a href="#" className="hover:text-[#A67C52] transition-colors">Support</a>
           </div>
           <p className="mt-8 text-xs text-[#A67C52]/60">
-            &copy; {new Date().getFullYear()} SkillMatch Platform. All rights reserved.
+            &copy; {new Date().getFullYear()} SkillMatch Platform made with ❤️. All rights reserved.
           </p>
         </div>
       </footer>
